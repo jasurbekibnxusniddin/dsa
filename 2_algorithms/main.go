@@ -7,7 +7,8 @@ func run() {
 	// - leetcode
 	// leetcode.GetHappyString()
 	// leetcode.FindDifferentBinaryString()
-	leetcode.NumOfSubarrays()
+	// leetcode.NumOfSubarrays()
+	leetcode.ClosestPrimes()
 }
 
 func main() {
