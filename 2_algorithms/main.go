@@ -1,6 +1,6 @@
 package main
 
-import "github.com/jasurbekibnxusniddin/dsa/algorithms/leetcode/leetcode"
+import grokkingalgorithms "github.com/jasurbekibnxusniddin/dsa/algorithms/leetcode/grokking-algorithms/1_binary_search/go"
 
 func run() {
 
@@ -8,7 +8,9 @@ func run() {
 	// leetcode.GetHappyString()
 	// leetcode.FindDifferentBinaryString()
 	// leetcode.NumOfSubarrays()
-	leetcode.ClosestPrimes()
+	//leetcode.ClosestPrimes()
+
+	grokkingalgorithms.BinarySearch()
 }
 
 func main() {
