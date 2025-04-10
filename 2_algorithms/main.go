@@ -1,6 +1,8 @@
 package main
 
-import grokkingalgorithms "github.com/jasurbekibnxusniddin/dsa/algorithms/leetcode/grokking-algorithms/1_binary_search/go"
+import (
+	selectionsort "github.com/jasurbekibnxusniddin/dsa/algorithms/leetcode/grokking-algorithms/4_selection_sort/go"
+)
 
 func run() {
 
@@ -10,7 +12,8 @@ func run() {
 	// leetcode.NumOfSubarrays()
 	//leetcode.ClosestPrimes()
 
-	grokkingalgorithms.BinarySearch()
+	//binarysearch.BinarySearch()
+	selectionsort.SelectionSort()
 }
 
 func main() {

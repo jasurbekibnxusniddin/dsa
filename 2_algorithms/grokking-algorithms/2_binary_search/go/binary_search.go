@@ -1,4 +1,4 @@
-package grokkingalgorithms
+package binarysearch
 
 import "fmt"
 
